@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bariscan2001
-- 👀 I’m interested in IT a lot.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bariscan2001@gmail.com
 
 <!---
